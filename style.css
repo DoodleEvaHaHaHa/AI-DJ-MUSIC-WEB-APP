@@ -1,0 +1,35 @@
+h3
+{
+    box-shadow: 5px 5px 5px lightsalmon;
+}
+.heading
+{
+    font-family: 'Anton', sans-serif;
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note
+{
+    font-family: 'Secular One', sans-serif;
+    font-size: 15px;
+    color: greenyellow;
+}
+body
+{
+    background-size: cover;
+}
+canvas
+{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px crimson;
+}
+#song_name
+{
+    font-family: 'Secular One', sans-serif;
+    color: black;
+}
+.btn-success:hover
+{
+    color: lightblue;
+}
